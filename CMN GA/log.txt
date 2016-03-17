@@ -1,0 +1,474 @@
+Initialization... OK
+
+Population has 100 individuals
+Fitness Scaling: generation 1 ...
+Local optimums detection ...Done. Population has 3 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 1 ... OK
+Crossover: generation 1 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 
+ OK
+Mutation: generation 1 ... OK
+
+Population has 120 individuals
+Fitness Scaling: generation 2 ...
+Local optimums detection ...Done. Population has 4 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 2 ... OK
+Crossover: generation 2 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 
+ OK
+Mutation: generation 2 ... OK
+
+Population has 140 individuals
+Fitness Scaling: generation 3 ...
+Local optimums detection ...Done. Population has 7 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 3 ... OK
+Crossover: generation 3 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 
+ OK
+Mutation: generation 3 ... OK
+
+Population has 160 individuals
+Fitness Scaling: generation 4 ...
+Local optimums detection ...Done. Population has 7 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 4 ... OK
+Crossover: generation 4 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 4 ... OK
+
+Population has 179 individuals
+Fitness Scaling: generation 5 ...
+Local optimums detection ...Done. Population has 9 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 5 ... OK
+Crossover: generation 5 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 5 ... OK
+
+Population has 198 individuals
+Fitness Scaling: generation 6 ...
+Local optimums detection ...Done. Population has 10 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 6 ... OK
+Crossover: generation 6 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 6 ... OK
+
+Population has 217 individuals
+Fitness Scaling: generation 7 ...
+Local optimums detection ...Done. Population has 12 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 7 ... OK
+Crossover: generation 7 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 7 ... OK
+
+Population has 236 individuals
+Fitness Scaling: generation 8 ...
+Local optimums detection ...Done. Population has 13 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 8 ... OK
+Crossover: generation 8 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 
+ OK
+Mutation: generation 8 ... OK
+
+Population has 256 individuals
+Fitness Scaling: generation 9 ...
+Local optimums detection ...Done. Population has 13 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 9 ... OK
+Crossover: generation 9 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 9 ... OK
+
+Population has 274 individuals
+Fitness Scaling: generation 10 ...
+Local optimums detection ...Done. Population has 18 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 10 ... OK
+Crossover: generation 10 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 10 ... OK
+
+Population has 293 individuals
+Fitness Scaling: generation 11 ...
+Local optimums detection ...Done. Population has 24 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 11 ... OK
+Crossover: generation 11 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 11 ... OK
+
+Population has 312 individuals
+Fitness Scaling: generation 12 ...
+Local optimums detection ...Done. Population has 25 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 12 ... OK
+Crossover: generation 12 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 12 ... OK
+
+Population has 330 individuals
+Fitness Scaling: generation 13 ...
+Local optimums detection ...Done. Population has 28 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 13 ... OK
+Crossover: generation 13 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 13 ... OK
+
+Population has 348 individuals
+Fitness Scaling: generation 14 ...
+Local optimums detection ...Done. Population has 33 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 14 ... OK
+Crossover: generation 14 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 
+ OK
+Mutation: generation 14 ... OK
+
+Population has 368 individuals
+Fitness Scaling: generation 15 ...
+Local optimums detection ...Done. Population has 33 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 15 ... OK
+Crossover: generation 15 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 15 ... OK
+
+Population has 387 individuals
+Fitness Scaling: generation 16 ...
+Local optimums detection ...Done. Population has 35 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 16 ... OK
+Crossover: generation 16 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 
+ OK
+Mutation: generation 16 ... OK
+
+Population has 407 individuals
+Fitness Scaling: generation 17 ...
+Local optimums detection ...Done. Population has 39 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 17 ... OK
+Crossover: generation 17 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 17 ... OK
+
+Population has 425 individuals
+Fitness Scaling: generation 18 ...
+Local optimums detection ...Done. Population has 40 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 18 ... OK
+Crossover: generation 18 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 18 ... OK
+
+Population has 443 individuals
+Fitness Scaling: generation 19 ...
+Local optimums detection ...Done. Population has 41 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 19 ... OK
+Crossover: generation 19 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 19 ... OK
+
+Population has 461 individuals
+Fitness Scaling: generation 20 ...
+Local optimums detection ...Done. Population has 40 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 20 ... OK
+Crossover: generation 20 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 20 ... OK
+
+Population has 479 individuals
+Fitness Scaling: generation 21 ...
+Local optimums detection ...Done. Population has 41 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 21 ... OK
+Crossover: generation 21 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 21 ... OK
+
+Population has 498 individuals
+Fitness Scaling: generation 22 ...
+Local optimums detection ...Done. Population has 42 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 22 ... OK
+Crossover: generation 22 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 
+ OK
+Mutation: generation 22 ... OK
+
+Population has 518 individuals
+Fitness Scaling: generation 23 ...
+Local optimums detection ...Done. Population has 43 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 23 ... OK
+Crossover: generation 23 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 23 ... OK
+
+Population has 537 individuals
+Fitness Scaling: generation 24 ...
+Local optimums detection ...Done. Population has 47 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 24 ... OK
+Crossover: generation 24 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 
+ OK
+Mutation: generation 24 ... OK
+
+Population has 557 individuals
+Fitness Scaling: generation 25 ...
+Local optimums detection ...Done. Population has 51 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 25 ... OK
+Crossover: generation 25 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 25 ... OK
+
+Population has 576 individuals
+Fitness Scaling: generation 26 ...
+Local optimums detection ...Done. Population has 56 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 26 ... OK
+Crossover: generation 26 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 26 ... OK
+
+Population has 594 individuals
+Fitness Scaling: generation 27 ...
+Local optimums detection ...Done. Population has 56 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 27 ... OK
+Crossover: generation 27 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 
+ OK
+Mutation: generation 27 ... OK
+
+Population has 614 individuals
+Fitness Scaling: generation 28 ...
+Local optimums detection ...Done. Population has 59 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 28 ... OK
+Crossover: generation 28 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 
+ OK
+Mutation: generation 28 ... OK
+
+Population has 634 individuals
+Fitness Scaling: generation 29 ...
+Local optimums detection ...Done. Population has 65 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 29 ... OK
+Crossover: generation 29 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 
+ OK
+Mutation: generation 29 ... OK
+
+Population has 654 individuals
+Fitness Scaling: generation 30 ...
+Local optimums detection ...Done. Population has 67 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 30 ... OK
+Crossover: generation 30 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 30 ... OK
+
+Population has 672 individuals
+Fitness Scaling: generation 31 ...
+Local optimums detection ...Done. Population has 67 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 31 ... OK
+Crossover: generation 31 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 
+ OK
+Mutation: generation 31 ... OK
+
+Population has 692 individuals
+Fitness Scaling: generation 32 ...
+Local optimums detection ...Done. Population has 69 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 32 ... OK
+Crossover: generation 32 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 
+ OK
+Mutation: generation 32 ... OK
+
+Population has 712 individuals
+Fitness Scaling: generation 33 ...
+Local optimums detection ...Done. Population has 75 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 33 ... OK
+Crossover: generation 33 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 33 ... OK
+
+Population has 730 individuals
+Fitness Scaling: generation 34 ...
+Local optimums detection ...Done. Population has 78 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 34 ... OK
+Crossover: generation 34 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 34 ... OK
+
+Population has 749 individuals
+Fitness Scaling: generation 35 ...
+Local optimums detection ...Done. Population has 80 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 35 ... OK
+Crossover: generation 35 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 
+ OK
+Mutation: generation 35 ... OK
+
+Population has 769 individuals
+Fitness Scaling: generation 36 ...
+Local optimums detection ...Done. Population has 82 optimums.
+Fitness 3 Calculating ... Done
+ OK
+Stopping Criterion: generation 36 ... OK
+Crossover: generation 36 ... 
+P1 Selecting: Probability Calculating ... P1 Selecting: Select ... P2 Selecting ... Selecting Done
+Crossover ... 
+Try 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+ OK
+Mutation: generation 36 ... OK
+
+Population has 788 individuals
+Fitness Scaling: generation 37 ...
+Local optimums detection ...Done. Population has 86 optimums.
+Fitness 3 Calculating ... 
